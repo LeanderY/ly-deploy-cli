@@ -1,0 +1,26 @@
+{
+  "name": "ly-deploy-cli",
+  "version": "1.0.2",
+  "description": "A cli tool for web deploy.",
+  "bin": {
+    "deploy": "./bin/index.js"
+  },
+  "keywords": [
+    "web",
+    "node-ssh",
+    "deploy"
+  ],
+  "author": "ly",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeanderY/ly-deploy-cli.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.1.0",
+    "compressing": "^1.5.0",
+    "inquirer": "^7.0.3",
+    "node-ssh": "^7.0.0"
+  }
+}
