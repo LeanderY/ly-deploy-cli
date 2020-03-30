@@ -12,7 +12,7 @@ https://github.com/LeanderY/ly-deploy-cli
 
 ## 使用指南
 
-https://github.com/dadaiwei/ly-deploy-cli/blob/master/README.md
+https://github.com/LeanderY/ly-deploy-cli/blob/master/README.md
 
 ## 前提条件
 
